@@ -2,6 +2,6 @@ class Hello
 {
 psvm (sgtring args[])
 {
-System.out.println ("hi");
+System.out.println ("Hello World");
 }
 }
